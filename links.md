@@ -11,5 +11,5 @@
 - [Malware code](https://github.com/xiaozhouwang/kaggle_Microsoft_Malware)
 
 ## Some Advance EDA
-https://www.kaggle.com/selfishgene/yellow-cabs-tell-the-story-of-new-york-city
-https://www.kaggle.com/drgilermo/dynamics-of-new-york-city-animation
+- https://www.kaggle.com/selfishgene/yellow-cabs-tell-the-story-of-new-york-city
+- https://www.kaggle.com/drgilermo/dynamics-of-new-york-city-animation
